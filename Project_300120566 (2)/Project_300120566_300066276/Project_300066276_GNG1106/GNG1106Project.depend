@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1575768491 source:c:\users\rlaub\documents\gng1106\lab2\gng1106project\template.c
+	<stdio.h>
+	<gng1106plplot.h>
+	<math.h>
+	<float.h>
+
+1469663240 c:\libs\plplot-5.11.1\buildmingw\install\include\plplot\gng1106plplot.h
+	"plplot.h"
+
+1439404528 c:\libs\plplot-5.11.1\buildmingw\install\include\plplot\plplot.h
+	"plConfig.h"
+	<stdio.h>
+	<stdlib.h>
+	"pldll.h"
+	<stdint.h>
+	<Limits.h>
+
+1454720734 c:\libs\plplot-5.11.1\buildmingw\install\include\plplot\plconfig.h
+	<plplot_config.h>
+
+1454720734 c:\libs\plplot-5.11.1\buildmingw\install\include\plplot\pldll.h
+
+1575860215 source:c:\users\rlaub\documents\gng1106\lab2\gng1106project\concentration.c
+	<stdio.h>
+	<gng1106plplot.h>
+	<math.h>
+	<float.h>
+	<string.h>
+
